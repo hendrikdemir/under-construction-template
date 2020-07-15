@@ -17,7 +17,7 @@ Go to `index.html`, here you can adjust the image and the text to your liking.
 <img src="https://i.gyazo.com/7a1001014e1ad4ec3466c73a5fd37bc6.gif" alt="Image from Gyazo" width="600"/>
 
 
-Go to `/static/css/style.css`, here you can adjust the colors to your liking (`--orange` is used as the primary color)
+Go to `/static/css/style.css`, here you can adjust the colors to your liking (orange is used as the primary color)
 <img src="https://i.gyazo.com/e7fab16ea2279e11559b6d7b615ad405.gif" alt="Image from Gyazo" width="600"/>
 
 ## Meta
