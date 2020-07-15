@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Roboto:wght@400;500;600&display=swap');
+
+:root {
+    --black: #000000;
+    --dark-blue: #14213D;
+    --orange: #FCA311;
+    --dark-grey: #273034;
+    --light-grey: #E5E5E5;
+    --white: #FFFFFF;
+    --roboto: 'Roboto', sans-serif;
+    --playfair: 'Playfair Display', serif;
+}
+
+img {
+    position: relative;
+    margin-top: 130px;
+}
+
+h1 {
+    color: var(--dark-grey);
+    font-weight: 700;
+    margin-top: 3rem;
+    font-family: var(--playfair);
+}
+
+p {
+    color: black;
+    opacity: 0.6;
+    margin-top: 10px;
+    font-family: var(--roboto);
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+.btn {
+    font-weight: 500;
+    font-family: var(--roboto);
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 15px 25px;
+    border-radius: 999px;
+    transition: 0.3s all;
+}
+
+.btn-primary {
+    background-color: var(--orange);
+    border-color: var(--orange);
+    box-shadow: 0 1rem 3rem rgb(252, 163, 17, 0.4);
+}
+
+.btn-primary:hover {
+    background-color: var(--orange);
+    border-color: var(--orange);
+    transform: translateY(-2px);
+    box-shadow: 0 1rem 3rem rgb(252, 163, 17, 0.6);
+}
+
+.btn-primary:focus {
+    background-color: var(--orange) !important;
+    border-color: var(--orange) !important;
+    box-shadow: 0 1rem 3rem rgb(252, 163, 17, 0.6) !important;
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+        margin-top: 80px;
+        width: 80%;
+    }
+}
+
+
+
+
+
