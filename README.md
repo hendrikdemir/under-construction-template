@@ -20,6 +20,8 @@ Go to `index.html`, here you can adjust the image and the text to your liking.
 Go to `/static/css/style.css`, here you can adjust the colors to your liking (orange is used as the primary color)
 <img src="https://i.gyazo.com/e7fab16ea2279e11559b6d7b615ad405.gif" alt="Image from Gyazo" width="600"/>
 
+You can now also use [template.js](https://github.com/Directoire/under-construction-template/blob/master/template.js), which will promt you for a name and LinkedIn profile. After giving the requested values, you can copy the new HTML from your console and paste it in index.js.
+
 ## Meta
 
 LinkedIn – [@Hendrik Demir](https://www.linkedin.com/in/efehandemir/)
