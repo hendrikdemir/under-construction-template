@@ -1,7 +1,7 @@
 # Under Construction Template
 > A simple, minimalistic & cross-device compatible landing page for when your website is in production
 
-<img src="https://github.com/Directoire/under-construction-template/blob/master/demo.png" alt="Image from Gyazo"/>
+<img src="https://github.com/Directoire/under-construction-template/blob/master/demo.png"/>
 
 ![GitHub](https://img.shields.io/github/license/Directoire/under-construction-template)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Directoire/under-construction-template/total)
