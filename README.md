@@ -1,10 +1,9 @@
 # Under Construction Template
 > A simple, minimalistic & cross-device compatible landing page for when your website is in production
 
-<img src="https://github.com/Directoire/under-construction-template/blob/master/demo.png" alt="Image from Gyazo"/>
+<img src="https://github.com/Directoire/under-construction-template/blob/master/demo.png"/>
 
 ![GitHub](https://img.shields.io/github/license/Directoire/under-construction-template)
-![GitHub All Releases](https://img.shields.io/github/downloads/Directoire/under-construction-template/total)
 ![GitHub issues](https://img.shields.io/github/issues/Directoire/under-construction-template)
 
 This is a very simple template that you can use to show when you are still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions are welcome as there might be small and cool features that could be implemented in the feature.
@@ -19,6 +18,8 @@ Go to `index.html`, here you can adjust the image and the text to your liking.
 
 Go to `/static/css/style.css`, here you can adjust the colors to your liking
 <img src="https://i.gyazo.com/e7659d51148746e11edf1d402e8b4c9f.gif" width="600"/>
+
+You can now also use [template.js](https://github.com/Directoire/under-construction-template/blob/master/template.js), which will promt you for a name and LinkedIn profile. After giving the requested values, you can copy the new HTML from your console and paste it in index.js.
 
 ## Meta
 
