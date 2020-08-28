@@ -19,8 +19,6 @@ Go to `index.html`, here you can adjust the image and the text to your liking.
 Go to `/static/css/style.css`, here you can adjust the colors to your liking
 <img src="https://i.gyazo.com/e7659d51148746e11edf1d402e8b4c9f.gif" width="600"/>
 
-You can now also use [template.js](https://github.com/Directoire/under-construction-template/blob/master/template.js), which will promt you for a name and LinkedIn profile. After giving the requested values, you can copy the new HTML from your console and paste it in index.js.
-
 ## Meta
 
 LinkedIn – [@Hendrik Demir](https://www.linkedin.com/in/hendrikdemir/)
