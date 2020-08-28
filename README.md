@@ -14,15 +14,15 @@ This is a very simple template that you can use to show when you are still worki
 To start, create a new folder for the landing page. Download or clone the repository by using `git clone https://github.com/Directoire/under-construction-template` and place the template in the folder you just created.
 
 Go to `index.html`, here you can adjust the image and the text to your liking.
-<img src="https://i.gyazo.com/7a1001014e1ad4ec3466c73a5fd37bc6.gif" alt="Image from Gyazo" width="600"/>
+<img src="https://i.gyazo.com/eac8d7ca1371ef69780d29ac81414404.gif" width="600"/>
 
 
-Go to `/static/css/style.css`, here you can adjust the colors to your liking (orange is used as the primary color)
-<img src="https://i.gyazo.com/e7fab16ea2279e11559b6d7b615ad405.gif" alt="Image from Gyazo" width="600"/>
+Go to `/static/css/style.css`, here you can adjust the colors to your liking
+<img src="https://i.gyazo.com/e7659d51148746e11edf1d402e8b4c9f.gif" width="600"/>
 
 ## Meta
 
-LinkedIn – [@Hendrik Demir](https://www.linkedin.com/in/efehandemir/)
+LinkedIn – [@Hendrik Demir](https://www.linkedin.com/in/hendrikdemir/)
 
 Discord - Directoire#0001
 
