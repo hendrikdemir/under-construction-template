@@ -4,7 +4,6 @@
 <img src="https://github.com/Directoire/under-construction-template/blob/master/demo.png"/>
 
 ![GitHub](https://img.shields.io/github/license/Directoire/under-construction-template)
-![GitHub All Releases](https://img.shields.io/github/downloads/Directoire/under-construction-template/total)
 ![GitHub issues](https://img.shields.io/github/issues/Directoire/under-construction-template)
 
 This is a very simple template that you can use to show when you are still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions are welcome as there might be small and cool features that could be implemented in the feature.
