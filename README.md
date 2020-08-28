@@ -16,7 +16,7 @@ Go to `index.html`, here you can adjust the image and the text to your liking.
 <img src="https://i.gyazo.com/eac8d7ca1371ef69780d29ac81414404.gif" width="600"/>
 
 
-Go to `/static/css/style.css`, here you can adjust the colors to your liking
+Go to `/static/css/style.css`, here you can adjust the colors to your liking.
 <img src="https://i.gyazo.com/e7659d51148746e11edf1d402e8b4c9f.gif" width="600"/>
 
 ## Meta
