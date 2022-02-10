@@ -21,7 +21,7 @@ Go to `/static/css/style.css`, here you can adjust the colors to your liking.
 
 ## Meta
 
-LinkedIn – [@Hendrik Demir](https://www.linkedin.com/in/hendrikdemir/)
+LinkedIn – [@Hendrik Demir](https://www.linkedin.com/in/hendrik-demir/)
 
 Discord - Directoire#0001
 
