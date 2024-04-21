@@ -13,7 +13,7 @@ This is a very simple landing page built with Tailwind that can be put on displa
 
 In order to deploy this simple page, you'll need to build it using Webpack, which will generate the `dist` folder.
 
-1. Clone the repository `git clone https://github.com/hendrikdemir/under-construction-template`
+1. [Use this repository as a template](https://github.com/new?template_name=under-construction-template&template_owner=hendrikdemir) to create your own repository & clone it `git clone https://github.com/<yourusername>/<your-repository-name>`
 
 2. Run `npm run build`
 
