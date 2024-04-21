@@ -19,7 +19,7 @@
   "main": "tailwind.config.js",
   "scripts": {
     "build": "webpack"
-  },
+  }
   "keywords": [],
   "author": "Hendrik Demir (https://www.linkedin.com/in/hendrik-demir/)",
   "license": "MIT"
