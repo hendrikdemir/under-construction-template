@@ -1,23 +1,75 @@
 # Under Construction Template
 > A simple, minimalistic & cross-device compatible landing page for when your website is under construction
 
-<img src="https://github.com/Directoire/under-construction-template/blob/master/demo.jpg"/>
+<img src="https://github.com/hendrikdemir/under-construction-template/blob/master/demo.jpg"/>
 
-![GitHub](https://img.shields.io/github/license/Directoire/under-construction-template)
-![GitHub issues](https://img.shields.io/github/issues/Directoire/under-construction-template)
+![GitHub](https://img.shields.io/github/license/hendrikdemir/under-construction-template)
+![GitHub issues](https://img.shields.io/github/issues/hendrikdemir/under-construction-template)
 
-This is a very simple template that you can use to show when you are still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions are welcome as there might be small and cool features that could be implemented in the feature.
+This is a very simple landing page built with Tailwind CSS that can be put on display when you're still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions to further improve the design, performance and configurability are very welcome.
 
-## Setup & usage
+## Usage
 
-To start, create a new folder for the landing page. Download or clone the repository by using `git clone https://github.com/Directoire/under-construction-template` and place the template in the folder you just created.
+In order to deploy this simple page, you'll need to build it using Webpack, which will generate the `dist` folder.
 
-Go to `index.html`, here you can adjust the image and the text to your liking.
-<img src="https://i.gyazo.com/eac8d7ca1371ef69780d29ac81414404.gif" width="600"/>
+1. Clone the repository `git clone https://github.com/hendrikdemir/under-construction-template`
 
+2. Run `npm run build`
 
-Go to `/static/css/style.css`, here you can adjust the colors to your liking.
-<img src="https://i.gyazo.com/e7659d51148746e11edf1d402e8b4c9f.gif" width="600"/>
+Webpack will now generate a `dist` folder containing `index.html`, `main.js` and the construction image. Copy this to the root folder of your website, and you're done!
+
+## Configuration
+
+### Colors
+
+The colors used on the page can be modified in `tailwind.config.js`.
+
+```yml
+colors: {
+    'primary': {
+        DEFAULT: '#f4a117',
+        '50': '#fffbeb',
+        '100': '#fef3c7',
+        '200': '#fce68b',
+        '300': '#fbd14e',
+        '400': '#fabd25',
+        '500': '#f4a117',
+        '600': '#d87607',
+        '700': '#b3520a',
+        '800': '#91400f',
+        '900': '#773510',
+        '950': '#451a03',
+    }
+}
+```
+
+The value set for `DEFAULT` will be used when you don't provide the color's shade, such as `bg-primary`. More about this can be found at [Tailwind's documentation](https://tailwindcss.com/docs/configuration).
+
+### Fonts
+
+The fonts are provided in `src/style.css` and configured in `tailwind.config.js`.
+
+```css
+@import url('https://fonts.googleapis.com/...');
+```
+
+```yml
+fontFamily: {
+    sans: ['Roboto', 'sans-serif'],
+    serif: ['Playfair Display', 'serif']
+}
+```
+
+### Image
+
+The construction site image is configured in `src/index.js`.
+
+```js
+import constructionImagePath from './construction.svg'
+document.querySelector("img").src = constructionImagePath;
+```
+
+If you use a different image and adjust the path, Webpack should automatically pick this up and copy the image over to the `dist` folder.
 
 ## Meta
 
@@ -27,7 +79,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/Directoire/under-construction-template/fork>)
+1. Fork it (<https://github.com/hendrikdemir/under-construction-template/fork>)
 2. Create your feature branch (`git checkout -b feature/superlaser`)
 3. Commit your changes (`git commit -am 'Added superlaser'`)
 4. Push to the branch (`git push origin feature/superlaser`)
@@ -37,6 +89,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 - [Tailwind CSS 3.4.3](https://tailwindcss.com)
 - [Webpack 5.91.0](https://webpack.js.org)
 - [PostCSS 8.4.38](https://postcss.org)
-- [Manypixels](https://www.manypixels.co/)
 - [Font Awesome Free 6.5.2](https://fontawesome.com)
+- [Construction vector from Manypixels](https://www.manypixels.co/)
+- [Playfair Display and Roboto from Google Fonts](https://fonts.google.com)
 - [Mockup from Anthony Boyd Graphics](https://www.anthonyboyd.graphics/mockups/front-view-iphone-x-and-macbook-pro-mockup/)
