@@ -7,7 +7,7 @@
 ![forks](https://img.shields.io/github/forks/hendrikdemir/under-construction-template)
 ![issues](https://img.shields.io/github/issues/hendrikdemir/under-construction-template)
 
-This is a very simple landing page built with Tailwind CSS that can be put on display when you're still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions to further improve the design, performance and configurability are very welcome.
+This is a very simple landing page built with Tailwind that can be put on display when you're still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions to further improve the design, performance and configurability are very welcome.
 
 ## Usage
 
@@ -20,6 +20,8 @@ In order to deploy this simple page, you'll need to build it using Webpack, whic
 Webpack will now generate a `dist` folder containing `index.html`, `main.js` and the construction image. Copy this to the root folder of your website, and you're done!
 
 ## Configuration
+
+While making adjustments to the page, keep in mind that the `dist` folder is only for output purposes. If you want to make adjustments to the page's content, such as text, you must do this in `src/index.html`. Once you're done making adjustments, you'll need to run `npm run build` to get an up-to-date `dist` folder.
 
 ### Colors
 
