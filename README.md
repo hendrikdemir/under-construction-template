@@ -1,7 +1,7 @@
 # Under Construction Template
 > A simple, minimalistic & cross-device compatible landing page for when your website is under construction
 
-<img src="https://github.com/hendrikdemir/under-construction-template/blob/master/demo.jpg"/>
+<img src="https://github.com/hendrikdemir/under-construction-template/blob/main/demo.jpg"/>
 
 ![license](https://img.shields.io/github/license/hendrikdemir/under-construction-template)
 ![forks](https://img.shields.io/github/forks/hendrikdemir/under-construction-template)
