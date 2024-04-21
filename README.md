@@ -82,11 +82,15 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/hendrikdemir/under-construction-template/fork>)
-2. Create your feature branch (`git checkout -b feature/superlaser`)
-3. Commit your changes (`git commit -am 'Added superlaser'`)
-4. Push to the branch (`git push origin feature/superlaser`)
-5. Create a new Pull Request
+1. [Fork](https://github.com/hendrikdemir/under-construction-template/fork) & clone the repository  
+`git clone https://github.com/hendrikdemir/under-construction-template`
+2. Create your feature branch  
+`git checkout -b feature/superlaser`
+3. Commit your changes  
+`git commit -am 'Added superlaser'`
+4. Push to the branch  
+`git push origin feature/superlaser`
+5. [Create a new Pull Request](https://github.com/hendrikdemir/under-construction-template/compare)
 
 ## Acknowledgements
 - [Tailwind CSS 3.4.3](https://tailwindcss.com)
