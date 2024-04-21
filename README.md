@@ -33,9 +33,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/superlaser`)
 5. Create a new Pull Request
 
-## Built With
+## Acknowledgements
 - [Tailwind CSS 3.4.3](https://tailwindcss.com)
 - [Webpack 5.91.0](https://webpack.js.org)
 - [PostCSS 8.4.38](https://postcss.org)
 - [Manypixels](https://www.manypixels.co/)
 - [Font Awesome Free 6.5.2](https://fontawesome.com)
+- [Mockup from Anthony Boyd Graphics](https://www.anthonyboyd.graphics/mockups/front-view-iphone-x-and-macbook-pro-mockup/)
