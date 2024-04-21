@@ -83,7 +83,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 ## Contributing
 
 1. [Fork](https://github.com/hendrikdemir/under-construction-template/fork) & clone the repository  
-`git clone https://github.com/hendrikdemir/under-construction-template`
+`git clone https://github.com/<yourusername>/<your-repository-name>`
 2. Create your feature branch  
 `git checkout -b feature/superlaser`
 3. Commit your changes  
