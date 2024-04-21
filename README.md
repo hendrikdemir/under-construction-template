@@ -3,8 +3,9 @@
 
 <img src="https://github.com/hendrikdemir/under-construction-template/blob/master/demo.jpg"/>
 
-![GitHub](https://img.shields.io/github/license/hendrikdemir/under-construction-template)
-![GitHub issues](https://img.shields.io/github/issues/hendrikdemir/under-construction-template)
+![license](https://img.shields.io/github/license/hendrikdemir/under-construction-template)
+![forks](https://img.shields.io/github/forks/hendrikdemir/under-construction-template)
+![issues](https://img.shields.io/github/issues/hendrikdemir/under-construction-template)
 
 This is a very simple landing page built with Tailwind CSS that can be put on display when you're still working on your website. You can completely modify it to your liking and use it in whatever way you like. Contributions to further improve the design, performance and configurability are very welcome.
 
